@@ -69,46 +69,46 @@ img{
 
 .clipped-border:nth-child(2){
   top:0px;
-  left:550px;
+  left:580px;
 }
 
 .clipped-border:nth-child(3){
-  top:250px;
+  top:200px;
   left:0px;
 }
 
 .clipped-border:nth-child(4){
-  top:250px;
+  top:200px;
   left:300px;
 }
 
 .clipped-border:nth-child(5){
   top:0px;
-  left:850px;
+  left:870px;
 }
 
 .clipped-border:nth-child(6){
-  top:250px;
-  left:550px;
+  top:200px;
+  left:580px;
 }
 
 .clipped-border:nth-child(7){
   top:0px;
-  left:1100px;
+  left:1160px;
 }
 
 .clipped-border:nth-child(8){
-  top:300px;
-  left:850px;
+  top:200px;
+  left:870px;
 }
 
 .clipped-border:nth-child(9){
-  top:250px;
-  left:1100px;
+  top:200px;
+  left:1160px;
 }
 
 .clipped-border:nth-child(10){
-  top:450px;
+  top:400px;
   left:0px;
 }
 
@@ -119,17 +119,17 @@ img{
 
 .clipped-border:nth-child(12){
   top:400px;
-  left:550px;
+  left:580px;
 }
 
 .clipped-border:nth-child(13){
   top:400px;
-  left:850px;
+  left:870px;
 }
 
 .clipped-border:nth-child(14){
   top:400px;
-  left:1100px;
+  left:1160px;
 }
 
 .clipped-border:hover{
