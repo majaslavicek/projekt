@@ -23,6 +23,10 @@ p.drugi
     border-color: white;
     padding: 15px;
 }
+h2
+{
+    text-decoration: underline;
+}
 
 :root{
   --width: 100%;
