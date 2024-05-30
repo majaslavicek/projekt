@@ -64,7 +64,7 @@ img{
 
 .clipped-border:nth-child(1){
   top:0px;
-  left:290px;
+  left:300px;
 }
 
 .clipped-border:nth-child(2){
@@ -73,37 +73,37 @@ img{
 }
 
 .clipped-border:nth-child(3){
-  top:180px;
-  left:60px;
+  top:250px;
+  left:0px;
 }
 
 .clipped-border:nth-child(4){
-  top:180px;
-  left:200px;
+  top:250px;
+  left:300px;
 }
 
 .clipped-border:nth-child(5){
   top:0px;
-  left:790px;
+  left:850px;
 }
 
 .clipped-border:nth-child(6){
-  top:220px;
-  left:580px;
+  top:250px;
+  left:550px;
 }
 
 .clipped-border:nth-child(7){
-  top:190px;
+  top:0px;
   left:1100px;
 }
 
 .clipped-border:nth-child(8){
-  top:180px;
-  left:790px;
+  top:300px;
+  left:850px;
 }
 
 .clipped-border:nth-child(9){
-  top:300px;
+  top:250px;
   left:1100px;
 }
 
@@ -112,19 +112,24 @@ img{
   left:0px;
 }
 
+.clipped-border:nth-child(11){
+  top:400px;
+  left:300px;
+}
+
 .clipped-border:nth-child(12){
-  top:490px;
-  left:290px;
+  top:400px;
+  left:550px;
 }
 
 .clipped-border:nth-child(13){
-  top:470px;
-  left:580px;
+  top:400px;
+  left:850px;
 }
 
 .clipped-border:nth-child(14){
-  top:470px;
-  left:880px;
+  top:400px;
+  left:1100px;
 }
 
 .clipped-border:hover{
