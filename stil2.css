@@ -5,3 +5,20 @@ body
 .gallery:hover .thumb {
   opacity: .7;
 }
+.thumb {
+  height: 100px;
+  width: 12.5%;
+  background: no-repeat center center;
+  background-size: cover;
+  transition: opacity 600ms;  
+}
+.gallery .thumb:hover {
+  opacity: 1; /* overrides blur, so active img is not blurred */
+}
+.thumb:before, .thumb:after { 
+  opacity: 0; 
+  width: 45%;
+}
+.thumb.lasagna {
+  background-image: url(https://cdn.pixabay.com/photo/2016/12/11/22/41/lasagna-1900529_960_720.jpg);
+}
