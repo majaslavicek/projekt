@@ -2,12 +2,12 @@ body
 {
     background-color: Lavender;
 }
-p.prvi
+p
 {
     font-family: Georgia, Serif;
     font-size: 18px;
 }
-p.drugi
+p
 {
     color: DarkBlue;
     text-decoration: underline;
