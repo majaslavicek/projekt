@@ -2,8 +2,22 @@ body
 {
     background-color: Lavender;
 }
-p
+p.prvi
 {
     font-family: Georgia, Serif;
     font-size: 14px;
 }
+p.drugi
+{
+    color: DarkBlue;
+    text-decoration: underline;
+    border-width: thin;
+    border-style: solid;
+    border-left-color: DarkBlue;
+    border-right-color: DarkBlue;
+    border-bottom-color: DodgerBlue;
+    border-top-color: DodgerBlue;
+}
+    
+    
+    
