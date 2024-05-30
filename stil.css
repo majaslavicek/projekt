@@ -2,3 +2,8 @@ body
 {
     background-color: Lavender;
 }
+p
+{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+}
