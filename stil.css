@@ -10,6 +10,7 @@ p.prvi
     border-width: thin;
     border-style: solid;
     border-color: white;
+    padding: 10px;
 }
 p.drugi
 {
