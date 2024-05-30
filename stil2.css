@@ -32,8 +32,8 @@ html,body{
   border-radius: 30%;
 }
 img{
-  width:70px(--width);
-  height:50px(--height);
+  width:var(--width);
+  height:var(--height);
 }
 .clipped-border{
    padding:5px;
