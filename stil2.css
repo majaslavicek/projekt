@@ -128,8 +128,8 @@ img{
 }
 
 .clipped-border:nth-child(14){
-  top:400px;
-  left:1160px;
+  top:0px;
+  left:0px;
 }
 
 .clipped-border:hover{
