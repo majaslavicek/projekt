@@ -7,14 +7,16 @@ p.prvi
     font-family: Georgia, Serif;
     font-size: 16px;
     color: black;
+    border-width: thin;
+    border-style: solid;
+    border-color: white;
 }
 p.drugi
 {
     font-family: Georgia, Serif;
     font-size: 16px;
     color: black;
-    border-width: thin;
-    border-color: DarkBlue;
+    text-align: center;
 }
 
     
