@@ -12,8 +12,8 @@ html,body{
 }
 .gallery{
   position:relative;
-  height:100%;
-  width:100%;
+  height:120%;
+  width:120%;
 }
 .gallery:after{
   content:'';
@@ -21,10 +21,10 @@ html,body{
 .shadow{
   position: absolute;
   top: 500px;
-  left: 100px;
-  width: 500px;
+  left: 120px;
+  width: 520px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 img{
   width:var(--width);
@@ -34,8 +34,8 @@ img{
    padding:5px;
    width:var(--border-width);
    height:var(--border-height);
-   max-height:250px;
-   max-width:250px;
+   max-height:300px;
+   max-width:300px;
    height: var(--height);
    width:var(--width);
    transition:transform 0.2s;
